@@ -6,11 +6,15 @@ while read dir
 do
     bn=$( basename $dir )
     echo -e "# $bn\n"
-    find $bn -type f | while read file
+    find $bn -type f | awk '{ print length($0) " " $0; }' $file | sort -n |\
+    cut -d ' ' -f 2- | while read file
     do
         echo " - [$( basename $file )]($file)"
     done
-    echo
+    echo -e "\n---\n"
+cat << EOF
+All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/LICENSE) inside the source repository.
+EOF
 done
-echo "---"
 } > README.md
+cat README.md
