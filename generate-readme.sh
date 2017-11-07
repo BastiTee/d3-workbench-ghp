@@ -21,6 +21,8 @@ cd "$( dirname "$( readlink -f "$0" )" )"
 ## License and further information
 
 All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/blob/master/LICENSE) inside the source repository.
+
+The libraries above are necessary if you want to use the d3-workbench codebase outside d3-workbench, e.g., on [bl.ocks](https://bl.ocks.org/). If that's not the case, it's recommended to use the [npm-release](https://www.npmjs.com/package/d3-workbench) instead.
 EOF
 } > README.md
 cat README.md
