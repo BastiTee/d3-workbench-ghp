@@ -14,7 +14,7 @@ cd "$( dirname "$( readlink -f "$0" )" )"
         echo -e "\n---\n"
     done
     cat << EOF
-All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/LICENSE) inside the source repository.
+All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/blob/master/LICENSE) inside the source repository.
 EOF
 } > README.md
 cat README.md

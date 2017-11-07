@@ -17,7 +17,6 @@
 
 ---
 
-All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/LICENSE) inside the source repository.
 # 0.5.0-pre.84884f4
 
  - [d3-wb.js](0.5.0-pre.84884f4/d3-wb.js)
@@ -37,7 +36,6 @@ All files in this repository are release snapshots of [d3-workbench](https://git
 
 ---
 
-All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/LICENSE) inside the source repository.
 # 0.5.0-pre.725ed91
 
  - [d3-wb.js](0.5.0-pre.725ed91/d3-wb.js)
@@ -57,7 +55,6 @@ All files in this repository are release snapshots of [d3-workbench](https://git
 
 ---
 
-All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/LICENSE) inside the source repository.
 # 0.5.0
 
  - [d3-wb.js](0.5.0/d3-wb.js)
@@ -77,7 +74,6 @@ All files in this repository are release snapshots of [d3-workbench](https://git
 
 ---
 
-All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/LICENSE) inside the source repository.
 # 0.4.0
 
  - [d3-wb.js](0.4.0/d3-wb.js)
@@ -87,7 +83,6 @@ All files in this repository are release snapshots of [d3-workbench](https://git
 
 ---
 
-All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/LICENSE) inside the source repository.
 # 0.3.1.3f797b5
 
  - [d3-wb.js](0.3.1.3f797b5/d3-wb.js)
@@ -97,7 +92,6 @@ All files in this repository are release snapshots of [d3-workbench](https://git
 
 ---
 
-All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/LICENSE) inside the source repository.
 # 0.3.0-pre.f56166a
 
  - [d3-wb.js](0.3.0-pre.f56166a/d3-wb.js)
@@ -105,7 +99,6 @@ All files in this repository are release snapshots of [d3-workbench](https://git
 
 ---
 
-All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/LICENSE) inside the source repository.
 # 0.3.0-pre.7a48a0c
 
  - [d3-wb.js](0.3.0-pre.7a48a0c/d3-wb.js)
@@ -113,7 +106,6 @@ All files in this repository are release snapshots of [d3-workbench](https://git
 
 ---
 
-All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/LICENSE) inside the source repository.
 # 0.3.0.3557c25
 
  - [d3-wb.js](0.3.0.3557c25/d3-wb.js)
@@ -123,7 +115,6 @@ All files in this repository are release snapshots of [d3-workbench](https://git
 
 ---
 
-All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/LICENSE) inside the source repository.
 # 0.2.0-pre
 
  - [d3-wb.min.js](0.2.0-pre/d3-wb.min.js)
@@ -131,7 +122,6 @@ All files in this repository are release snapshots of [d3-workbench](https://git
 
 ---
 
-All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/LICENSE) inside the source repository.
 # 0.1.0-pre
 
  - [d3-wb.min.js](0.1.0-pre/d3-wb.min.js)
@@ -139,4 +129,4 @@ All files in this repository are release snapshots of [d3-workbench](https://git
 
 ---
 
-All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/LICENSE) inside the source repository.
+All files in this repository are release snapshots of [d3-workbench](https://github.com/BastiTee/d3-workbench). See respective [license file](https://github.com/BastiTee/d3-workbench/blob/master/LICENSE) inside the source repository.
