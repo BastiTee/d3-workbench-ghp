@@ -1,5 +1,24 @@
 # Main releases
 
+## 0.7.1
+
+ - [d3-wb.js](0.7.1/d3-wb.js)
+ - [d3-wb.min.js](0.7.1/d3-wb.min.js)
+ - [d3-wb.solo.js](0.7.1/d3-wb.solo.js)
+ - [d3-wb.no-d3.js](0.7.1/d3-wb.no-d3.js)
+ - [d3-wb+plugins.js](0.7.1/d3-wb+plugins.js)
+ - [d3-wb.solo.min.js](0.7.1/d3-wb.solo.min.js)
+ - [d3-wb.no-d3.min.js](0.7.1/d3-wb.no-d3.min.js)
+ - [d3-wb+plugins.min.js](0.7.1/d3-wb+plugins.min.js)
+ - [d3-wb-plugins.solo.js](0.7.1/d3-wb-plugins.solo.js)
+ - [d3-wb-d3-plugins.solo.js](0.7.1/d3-wb-d3-plugins.solo.js)
+ - [d3-wb-plugins.solo.min.js](0.7.1/d3-wb-plugins.solo.min.js)
+ - [d3-wb-d3-plugins.solo.min.js](0.7.1/d3-wb-d3-plugins.solo.min.js)
+ - [d3-wb-reusable-charts.solo.js](0.7.1/d3-wb-reusable-charts.solo.js)
+ - [d3-wb-reusable-charts.solo.min.js](0.7.1/d3-wb-reusable-charts.solo.min.js)
+
+---
+
 ## 0.7.0
 
  - [d3-wb.js](0.7.0/d3-wb.js)
