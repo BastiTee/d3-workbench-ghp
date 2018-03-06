@@ -137,6 +137,19 @@
 
 ---
 
+## 0.10.1
+
+ - [d3-wb.js](0.10.1/d3-wb.js)
+ - [d3-wb.min.js](0.10.1/d3-wb.min.js)
+ - [d3-wb-modules.js](0.10.1/d3-wb-modules.js)
+ - [d3-wb-exdeps.min.js](0.10.1/d3-wb-exdeps.min.js)
+ - [d3-wb-distall.min.js](0.10.1/d3-wb-distall.min.js)
+ - [d3-wb-modules.min.js](0.10.1/d3-wb-modules.min.js)
+ - [d3-wb-reusable-charts.js](0.10.1/d3-wb-reusable-charts.js)
+ - [d3-wb-reusable-charts.min.js](0.10.1/d3-wb-reusable-charts.min.js)
+
+---
+
 ## 0.10.0
 
  - [d3-wb.js](0.10.0/d3-wb.js)
