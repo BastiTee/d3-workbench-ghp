@@ -15,8 +15,8 @@ cd "$( dirname "$( readlink -f "$0" )" )"
     find -maxdepth 1 -type d | grep -v -e "-pre" -e "^\.$" -e ".git" |\
     sort -r --version-sort | while read dir; do process_dir $dir; done
     echo -e "# Pre-releases\n"
-    find -r --version-sort -maxdepth 1 -type d | grep -v -e "^\.$" -e ".git" |\
-     grep "pre" | sort -nr | while read dir; do process_dir $dir; done
+    find -maxdepth 1 -type d | grep -v -e "^\.$" -e ".git" | grep "pre" |\
+    sort -r --version-sort | while read dir; do process_dir $dir; done
     cat << EOF
 ## License and further information
 
